@@ -34,15 +34,11 @@ This guide assumes you have a basic knowledge of linux and Docker / Docker Compo
 
 # 🏗️ Installation
 
-## Preparations
-
-First we want configure enviroment variables and setup domain records before installing anything.
-
 <b>Clone repository</b><br  />
 
 ```
 
-git clone
+git clone https://github.com/ali-farhad/docker-media-server-offline.git
 
 ```
 
