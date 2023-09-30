@@ -6,7 +6,7 @@
 
 # 📚 About
 
-Docker Media Center is a fully automated media set-up using Jellyfin and a bunch of other services to achieve full automation. All of the services listed below are running behind Traefik reverse proxy with proper certificates and basic auth. This script allows you to run all services within the same network from docker compose
+Docker Media Center is a fully automated media set-up using Jellyfin and a bunch of other services to achieve full automation. All of the services listed below runs locally on your network. This setup allows you to run all services within the same network from docker compose.
 
 Furthermore, the guide is set up with volume paths in a way to allow hardlinks of media files rather than making copies. This means once a media file is downloaded, it is hardlinked to the Jellyfin media directory rather than copied. Such a method is faster and saves storage on your server.
 
