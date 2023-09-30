@@ -1,6 +1,6 @@
 <p  align="center">
 
-<img  width="500"  src="https://raw.githubusercontent.com/BeefBytes/Assets/master/Other/container_illustration/v2/dmc.png">
+<img  width="500"  src="https://raw.githubusercontent.com/ali-farhad/docker-media-server-offline/main/dmc.jpeg">
 
 </p>
 
